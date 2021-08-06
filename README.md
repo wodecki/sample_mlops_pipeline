@@ -61,7 +61,7 @@ To apply more intelligent grid search, see hydra sweepers: https://hydra.cc/docs
 
 I've made a first release (1.0.0) of this pipeline on GitHub, so you can call it directly from there with:
 
-`mlflow run -v 1.0.0 {...}`
+`mlflow run -v 1.0.0 https://github.com/wodecki/sample_mlops_pipeline`
 
 
 
